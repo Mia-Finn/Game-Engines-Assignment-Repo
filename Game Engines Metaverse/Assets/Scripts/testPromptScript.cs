@@ -25,15 +25,15 @@ public class testPromptScript : MonoBehaviour
         {
             textBox.text = Careful;
         }
-        else if (Vector3.Distance(WMarshmallows.transform.position, Fire.transform.position) < 1f)
+        else if (Vector3.Distance(WMarshmallows.transform.position, Fire.transform.position) < 1f && WMarshmallows.activeInHierarchy == true)
         {
             textBox.text = Roast;
         }
-        else if (Vector3.Distance(RMarshmallows.transform.position, Fire.transform.position) < 1f)
+        else if (Vector3.Distance(RMarshmallows.transform.position, Fire.transform.position) < 1f && RMarshmallows.activeInHierarchy == true)
         {
             textBox.text = Roasted;
         }
-        else if (Vector3.Distance(BMarshmallows.transform.position, Fire.transform.position) < 1f)
+        else if (Vector3.Distance(BMarshmallows.transform.position, Fire.transform.position) < 1f && BMarshmallows.activeInHierarchy == true)
         {
             textBox.text = Burnt;
         }
