@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class cursorSelect_script : MonoBehaviour
 {
+    public GameObject Menu;
+
     private void Start()
     {
-        Cursor.visible = true;
+        Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
 
     }
@@ -14,16 +16,29 @@ public class cursorSelect_script : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //open main menu
         if(Input.GetKeyDown(KeyCode.Escape))
         {
-            Cursor.lockState = CursorLockMode.None;
-            Cursor.visible = true;
+            Menu.SetActive(true);
+            cursorON();
         }
+        /*
         else if(Input.GetKeyDown(KeyCode.Tab))
         {
             Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = true;
         }
-        
+        */
+    }
+
+    public void cursorON()
+    {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+    }
+    public void cursorOFF()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 }
