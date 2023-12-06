@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class cursorSelect_script : MonoBehaviour
 {
-    public GameObject Menu;
+    public GameObject Menu, textCanvas, radioMenu;
 
     private void Start()
     {
@@ -20,6 +20,12 @@ public class cursorSelect_script : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Escape))
         {
             Menu.SetActive(true);
+            textCanvas.SetActive(false);
+            cursorON();
+        }
+        else if (radioMenu.activeInHierarchy == true)
+        {
+            textCanvas.SetActive(false);
             cursorON();
         }
         /*
