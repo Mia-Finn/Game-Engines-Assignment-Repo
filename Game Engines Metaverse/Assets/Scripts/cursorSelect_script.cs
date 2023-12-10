@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class cursorSelect_script : MonoBehaviour
 {
-    public GameObject Menu, textCanvas, radioMenu;
+    public GameObject Menu, textCanvas, radioMenu, worldEdit;
 
     private void Start()
     {
@@ -24,6 +24,11 @@ public class cursorSelect_script : MonoBehaviour
             cursorON();
         }
         else if (radioMenu.activeInHierarchy == true)
+        {
+            textCanvas.SetActive(false);
+            cursorON();
+        }
+        else if (worldEdit.activeInHierarchy == true)
         {
             textCanvas.SetActive(false);
             cursorON();

@@ -7,7 +7,7 @@ public class testPromptScript : MonoBehaviour
 {
     public TMP_Text textBox;
     public string None, Start, Careful, Roast, Roasted, Burnt, Interact;
-    public GameObject Player, Fire, Radio, WMarshmallows, RMarshmallows, BMarshmallows;
+    public GameObject Player, Fire, Radio, WMarshmallows, RMarshmallows, BMarshmallows, tablet;
     public Transform radioRespawn, playerRespawn;
 
     // Update is called once per frame
@@ -37,7 +37,11 @@ public class testPromptScript : MonoBehaviour
         {
             textBox.text = Burnt;
         }
-        else if (Vector3.Distance(Player.transform.position, Radio.transform.position) < 2.5f)
+        else if (Vector3.Distance(Player.transform.position, Radio.transform.position) < 2f)
+        {
+            textBox.text = Interact;
+        }
+        else if (Vector3.Distance(Player.transform.position, tablet.transform.position) < 2f)
         {
             textBox.text = Interact;
         }

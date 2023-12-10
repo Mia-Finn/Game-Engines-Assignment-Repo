@@ -6,7 +6,8 @@ public class changeSkybox : MonoBehaviour
 {
     public Material dayMaterial;
     public Material nightMaterial;
-    public GameObject nightAudio, dayAudio;
+    public GameObject nightAudio, dayAudio, player, worldEditTablet, worldEditMenu;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -17,7 +18,10 @@ public class changeSkybox : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Vector3.Distance(player.transform.position, worldEditTablet.transform.position) < 2.5f && Input.GetKeyDown(KeyCode.E))
+        {
+            worldEditMenu.SetActive(true);
+        }
     }
 
     public void dayTime()
