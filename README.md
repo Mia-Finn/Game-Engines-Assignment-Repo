@@ -24,10 +24,12 @@ An interactive campfire experience with sounds, music and particle effects. I ai
 | mouseLook.cs | Source |
 | cursorSelect_script.cs | Self written |
 | tesPromptScript.cs | Self written |
-| ObjPickup.cs | [Source](https://www.youtube.com/watch?v=HAvHeIBVyvY) |
+| ObjPickup.cs | Source |
+| changeSkybox.cs | [Source](https://www.youtube.com/watch?v=HAvHeIBVyvY) |
 | radioScript.cs | Self written |
 | roastMarshmallowScript.cs | Self written |
 | FREE Skybox Extended Shader | Unity Asset Store |
+
 
 # References
 * 
