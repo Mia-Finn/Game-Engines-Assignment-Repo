@@ -7,14 +7,15 @@ public class testPromptScript : MonoBehaviour
 {
     public TMP_Text textBox;
     public string None, Start, Careful, Roast, Roasted, Burnt, Interact;
-    public GameObject Player, Fire, Radio, WMarshmallows, RMarshmallows, BMarshmallows, tablet;
-    public Transform radioRespawn, playerRespawn;
+    public GameObject Player, Fire, Radio, WMarshmallows, RMarshmallows, BMarshmallows, tablet; // stick;
+    public Transform radioRespawn, playerRespawn, tabletRespawn; //marshmallowRespwan;
 
     // Update is called once per frame
     void Update()
     {
         //respawn if too close to fire
         respawn();
+      //  eat();
 
         //text prompts
         if (Vector3.Distance(Player.transform.position, Fire.transform.position) < 2f)
@@ -62,5 +63,22 @@ public class testPromptScript : MonoBehaviour
         {
             Radio.transform.position = radioRespawn.transform.position;
         }
+        else if (Vector3.Distance(tablet.transform.position, Fire.transform.position) < 1f)
+        {
+            tablet.transform.position = tabletRespawn.transform.position;
+        }
     }
+
+    /*
+    private void eat()
+    {
+        if(WMarshmallows.activeInHierarchy == false && Input.GetKeyDown(KeyCode.E))
+        {
+            stick.transform.position = marshmallowRespwan.transform.position;
+            WMarshmallows.SetActive(true);
+            RMarshmallows.SetActive(false);
+            BMarshmallows.SetActive(false);
+        }
+    }
+    */
 }
