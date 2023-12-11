@@ -21,6 +21,20 @@ An interactive campfire experience with sounds, music and particle effects. I ai
 |-----------|-----------|
 | sceneChange.cs | Self written |
 |-----------|-----------|
+| playerMovement.cs | Source |
+|-----------|-----------|
+| mouseLook.cs | Source |
+|-----------|-----------|
+| cursorSelect_script.cs | Self written |
+|-----------|-----------|
+| tesPromptScript.cs | Self written |
+|-----------|-----------|
+| ObjPickup.cs | Source |
+|-----------|-----------|
+| radioScript.cs | Self written |
+|-----------|-----------|
+| roastMarshmallowScript.cs | Self written |
+|-----------|-----------|
 
 # References
 * 
