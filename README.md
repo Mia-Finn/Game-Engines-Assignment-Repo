@@ -19,6 +19,8 @@ An interactive campfire experience with sounds, music and particle effects. I ai
 
 | Class/asset | Source |
 |-----------|-----------|
+| sceneChange.cs | Self written |
+|-----------|-----------|
 
 # References
 * 
