@@ -27,6 +27,7 @@ An interactive campfire experience with sounds, music and particle effects. I ai
 | ObjPickup.cs | Source |
 | radioScript.cs | Self written |
 | roastMarshmallowScript.cs | Self written |
+| (Asset) FREE Skybox Extended Shader | Unity Asset Store |
 
 # References
 * 
