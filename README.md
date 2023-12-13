@@ -24,16 +24,16 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 | Class/asset | Source |
 |-----------|-----------|
 | sceneChange.cs | Self written |
-| playerMovement.cs | Source |
-| mouseLook.cs | Source |
+| playerMovement.cs | From reference |
+| mouseLook.cs | From reference |
 | cursorSelect_script.cs | Self written |
 | tesPromptScript.cs | Self written |
-| ObjPickup.cs | Source |
-| changeSkybox.cs | [Source](https://www.youtube.com/watch?v=HAvHeIBVyvY) |
+| ObjPickup.cs | Modififed from [reference]([https://www.youtube.com/watch?v=HAvHeIBVyvY](https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2)) |
+| changeSkybox.cs | From [reference](https://www.youtube.com/watch?v=HAvHeIBVyvY) |
 | radioScript.cs | Self written |
 | roastMarshmallowScript.cs | Self written |
 | FREE Skybox Extended Shader | Unity Asset Store |
-| All level decorations(logs, rado, fire, etc.) | Self made |
+| All level decorations (logs, rado, fire, etc.) | Self made |
 
 
 # References
