@@ -39,9 +39,11 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 | Song 2 | Music from [Youtube](https://youtu.be/2WXAZhsDPqo?si=GHZM_vFkrG-328vO) |
 | Song 3 | Music from [Youtube](https://youtu.be/v6ELNT542-I?si=bI_3q57LGkVLNTQv) |
 | Song 4 | Music from [Youtube](https://youtu.be/5PlRX4671o0?si=UCfcTw9VmYVnVfff) |
-| Fire Noise | Sound from [Freesound.org](https://freesound.org/people/Ambient-X/sounds/660298/) |
+| Fire noise | Sound from [Freesound.org](https://freesound.org/people/Ambient-X/sounds/660298/) |
 | Day scene background noise | Sound from [Freesound.org](https://freesound.org/people/klankbeeld/sounds/524001/) |
 | Night scene background noise | Sound from [Freesound.org](https://freesound.org/people/Dokuta_Gerovv/sounds/662095/) |
+| ?.cs | Modified from [reference]() |
+
 
 # References
 * Player movement script was modified from class notes
