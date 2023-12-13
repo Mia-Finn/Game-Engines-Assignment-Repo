@@ -24,7 +24,7 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 | Class/asset | Source |
 |-----------|-----------|
 | sceneChange.cs | Self written |
-| playerMovement.cs | From reference |
+| playerMovement.cs | Modified from a class script |
 | mouseLook.cs | Modified from [reference](https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/) |
 | cursorSelect_script.cs | Self written |
 | tesPromptScript.cs | Self written |
@@ -35,10 +35,14 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 | FREE Skybox Extended Shader | Unity Asset Store |
 | All level decorations (logs, rado, fire, etc.) | Self made |
 | All fonts | From [Dafont.com](https://www.dafont.com/) |
+| Song 1 | Music from [Youtube](https://youtu.be/6wM5GJVwgJo?si=UY8LGB73XAdgbWhY) |
+| Song 2 | Music from [Youtube](https://youtu.be/2WXAZhsDPqo?si=GHZM_vFkrG-328vO) |
+| Song 3 | Music from [Youtube](https://youtu.be/v6ELNT542-I?si=bI_3q57LGkVLNTQv) |
+| Song 4 | Music from [Youtube](https://youtu.be/5PlRX4671o0?si=UCfcTw9VmYVnVfff) |
 
 
 # References
-* Player movement script video from...
+* Player movement script was modified from class notes
 * Mouse look script from r/Unity3D on Reddit - https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/
 * Object pickup and drop script video from Omogonix on Youtube - https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2
 * Change skybox script video from Cezary_Sharp on Youtube - https://www.youtube.com/watch?v=HAvHeIBVyvY
