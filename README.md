@@ -34,6 +34,7 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 | roastMarshmallowScript.cs | Self written |
 | FREE Skybox Extended Shader | Unity Asset Store |
 | All level decorations (logs, rado, fire, etc.) | Self made |
+| All fonts | From [Dafont.com](https://www.dafont.com/) |
 
 
 # References
