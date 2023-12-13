@@ -25,7 +25,7 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 |-----------|-----------|
 | sceneChange.cs | Self written |
 | playerMovement.cs | From reference |
-| mouseLook.cs | From reference |
+| mouseLook.cs | Modified from [reference](https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/) |
 | cursorSelect_script.cs | Self written |
 | tesPromptScript.cs | Self written |
 | ObjPickup.cs | Modified from [reference](https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2) |
@@ -37,8 +37,10 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 
 
 # References
-* 
-* 
+* Player movement script video from...
+* Mouse look script from Reddit - https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/
+* Object pickup and drop script video from...
+* Change skybox script video from...
 
 # What I am most proud of in the assignment
 
