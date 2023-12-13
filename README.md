@@ -38,9 +38,9 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 
 # References
 * Player movement script video from...
-* Mouse look script from Reddit - https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/
-* Object pickup and drop script video from...
-* Change skybox script video from...
+* Mouse look script from r/Unity3D on Reddit - https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/
+* Object pickup and drop script video from Omogonix on Youtube - https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2
+* Change skybox script video from Cezary_Sharp on Youtube - https://www.youtube.com/watch?v=HAvHeIBVyvY
 
 # What I am most proud of in the assignment
 
