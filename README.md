@@ -6,7 +6,7 @@ Student Number: C21341136
 
 Class Group: TU984 Game Design Year 3
 
-Video: 
+Video: *Add video*
 
 # Description of the project
 My metaverse idea is an interactive campfire scene where the player has the opportunity to explore the scene in Unity 3D while interacting with various aspects of the worlds envionment. There are many ways to experience this world, the player can listen to some music while playing around at the campfire or simply watching it burn, or they can opt to simply take in the scene without the music and only the sounds of the fire and the surrounding nature.
@@ -20,7 +20,12 @@ Holding down left mouse button will pick up objects and letting go will drop the
 The 'Esc' button will bring the player to the main menu where they can control the volume as well as the controls menu.
 
 # How it works
+# Instructions for use
+The character movement script makes use of Unity's built in input system. 
 
+The majority of the project is handled in my Scene Manager script. This script looks out for the collision of objects and the distane between objects and then 'if' statements control what will happen as a result, for example if the player gets to close to the fire then the 'Be Careful!' text line will appear but if they get closer and walk into the fire, they will get teleported back to their spawn point. This script also controls the interactions with objects.
+
+The buttons on the radio control the music using the built in Unity UI button functions. The volume is controlled with a slider and a script that saves the last volume setting to player prefs.
 
 # List of classes/assets in the project
 
