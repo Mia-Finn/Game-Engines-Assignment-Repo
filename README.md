@@ -6,7 +6,7 @@ Student Number: C21341136
 
 Class Group: TU984 Game Design Year 3
 
-Video:
+Video: 
 
 # Description of the project
 My metaverse idea is an interactive campfire scene where the player has the opportunity to explore the scene in Unity 3D while interacting with various aspects of the worlds envionment. There are many ways to experience this world, the player can listen to some music while playing around at the campfire or simply watching it burn, or they can opt to simply take in the scene without the music and only the sounds of the fire and the surrounding nature.
@@ -14,7 +14,10 @@ My metaverse idea is an interactive campfire scene where the player has the oppo
 This project was made in the Unity Game Engine, it currently only plays on PC in as a 3D Unity scene, not yet working in VR. There is a low-poly/cartoon like art style to the scene.
 
 # Instructions for use
-The player can use the mouse to look around the world and the W, A, S, D keys to move in the game world. The player can interact with most objects in the campfire scene. They can change the look of the game world by changing the time of day the scene is set and by...
+Use the W, A, S, D keys to move in the game world and move the mouse to look around.
+The player can use 'E' to interact with most objects in the campfire scene. Players can interact with the radio, the tablet and the marshmallows.
+Holding down left mouse button will pick up objects and letting go will drop them. Players can press the right mouse button while holding an object to throw it.
+The 'Esc' button will bring the player to the main menu where they can control the volume as well as the controls menu.
 
 # How it works
 
@@ -32,6 +35,7 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 | changeSkybox.cs | From [reference](https://www.youtube.com/watch?v=HAvHeIBVyvY) |
 | radioScript.cs | Self written |
 | roastMarshmallowScript.cs | Self written |
+| volumeManager.cs | From [reference](https://www.youtube.com/watch?v=yWCHaTwVblk) |
 | FREE Skybox Extended Shader | Unity Asset Store |
 | All level decorations (logs, rado, fire, etc.) | Self made |
 | All fonts | From [Dafont.com](https://www.dafont.com/) |
@@ -42,20 +46,20 @@ The player can use the mouse to look around the world and the W, A, S, D keys to
 | Fire noise | Sound from [Freesound.org](https://freesound.org/people/Ambient-X/sounds/660298/) |
 | Day scene background noise | Sound from [Freesound.org](https://freesound.org/people/klankbeeld/sounds/524001/) |
 | Night scene background noise | Sound from [Freesound.org](https://freesound.org/people/Dokuta_Gerovv/sounds/662095/) |
-| volumeManager.cs | From [reference](https://www.youtube.com/watch?v=yWCHaTwVblk) |
-
+| Fire particel system | Modified from [reference]() |
 
 # References
-* Player movement script was modified from class notes
+* Player movement script was modified from old class notes
 * Mouse look script from r/Unity3D on Reddit - https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/
 * Object pickup and drop script video from Omogonix on Youtube - https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2
 * Change skybox script video from Cezary_Sharp on Youtube - https://www.youtube.com/watch?v=HAvHeIBVyvY
+* Fire particle system references - 
 
 # What I am most proud of in the assignment
-
+I am very proud of the radio function. I think that it works really well and I am happy with the way the asset itself looks. I am also quite proud of the fire particle system. I like the colours and the low-poly arty style that it has. I think it fits the rest of the environment really well.
 
 # What I learned
-
+I learned a lot about sound design it Unity. I had never really done too much with game sounds until this project and I'm very happy with hiw they turned out. I also learned a lot about particle systems in Unity. I'd also never done too mush with them so I had to learn how they worked and how I could get it to look the way I wanted it too, luckily I was able to find a lot of material online to help with this (linked above).
 
 # Proposal submitted earlier can go here:
 An interactive campfire experience with sounds, music and particle effects. I aim to make it so that you can change the colours of the fire and maybe even the effects too, as well as interact with the other objects in the environment, like roasting marshmallows and choosing some campfire songs to listen to!
