@@ -42,7 +42,7 @@ The buttons on the radio control the music using the built in Unity UI button fu
 | volumeManager.cs | From [reference](https://www.youtube.com/watch?v=yWCHaTwVblk) |
 | FREE Skybox Extended Shader | Unity Asset Store |
 | All level decorations (logs, rado, marshmallows, etc.) | Self made |
-| Fire particel system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
+| Fire particle system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
 | All fonts | From [Dafont.com](https://www.dafont.com/) |
 | Song 1 | Music from [Youtube](https://youtu.be/6wM5GJVwgJo?si=UY8LGB73XAdgbWhY) |
 | Song 2 | Music from [Youtube](https://youtu.be/2WXAZhsDPqo?si=GHZM_vFkrG-328vO) |
