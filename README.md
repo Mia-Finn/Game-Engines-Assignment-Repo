@@ -41,7 +41,8 @@ The buttons on the radio control the music using the built in Unity UI button fu
 | roastMarshmallowScript.cs | Self written |
 | volumeManager.cs | From [reference](https://www.youtube.com/watch?v=yWCHaTwVblk) |
 | FREE Skybox Extended Shader | Unity Asset Store |
-| All level decorations (logs, rado, fire, etc.) | Self made |
+| All level decorations (logs, rado, marshmallows, etc.) | Self made |
+| Fire particel system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
 | All fonts | From [Dafont.com](https://www.dafont.com/) |
 | Song 1 | Music from [Youtube](https://youtu.be/6wM5GJVwgJo?si=UY8LGB73XAdgbWhY) |
 | Song 2 | Music from [Youtube](https://youtu.be/2WXAZhsDPqo?si=GHZM_vFkrG-328vO) |
@@ -50,7 +51,6 @@ The buttons on the radio control the music using the built in Unity UI button fu
 | Fire noise | Sound from [Freesound.org](https://freesound.org/people/Ambient-X/sounds/660298/) |
 | Day scene background noise | Sound from [Freesound.org](https://freesound.org/people/klankbeeld/sounds/524001/) |
 | Night scene background noise | Sound from [Freesound.org](https://freesound.org/people/Dokuta_Gerovv/sounds/662095/) |
-| Fire particel system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
 
 # References
 * Player movement script was modified from old class notes
