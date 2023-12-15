@@ -20,7 +20,6 @@ Holding down left mouse button will pick up objects and letting go will drop the
 The 'Esc' button will bring the player to the main menu where they can control the volume as well as the controls menu.
 
 # How it works
-# Instructions for use
 The character movement script makes use of Unity's built in input system. 
 
 The majority of the project is handled in my Scene Manager script. This script looks out for the collision of objects and the distane between objects and then 'if' statements control what will happen as a result, for example if the player gets to close to the fire then the 'Be Careful!' text line will appear but if they get closer and walk into the fire, they will get teleported back to their spawn point. This script also controls the interactions with objects.
