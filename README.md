@@ -50,14 +50,14 @@ The buttons on the radio control the music using the built in Unity UI button fu
 | Fire noise | Sound from [Freesound.org](https://freesound.org/people/Ambient-X/sounds/660298/) |
 | Day scene background noise | Sound from [Freesound.org](https://freesound.org/people/klankbeeld/sounds/524001/) |
 | Night scene background noise | Sound from [Freesound.org](https://freesound.org/people/Dokuta_Gerovv/sounds/662095/) |
-| Fire particel system | Modified from [reference]() |
+| Fire particel system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
 
 # References
 * Player movement script was modified from old class notes
 * Mouse look script from r/Unity3D on Reddit - https://www.reddit.com/r/Unity3D/comments/8k7w7v/unity_simple_mouselook/
 * Object pickup and drop script video from Omogonix on Youtube - https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2
 * Change skybox script video from Cezary_Sharp on Youtube - https://www.youtube.com/watch?v=HAvHeIBVyvY
-* Fire particle system references - 
+* Fire particle system references - [Video](https://youtu.be/PoMl09d1Avc?feature=shared) , 
 
 # What I am most proud of in the assignment
 I am very proud of the radio function. I think that it works really well and I am happy with the way the asset itself looks. I am also quite proud of the fire particle system. I like the colours and the low-poly arty style that it has. I think it fits the rest of the environment really well.
