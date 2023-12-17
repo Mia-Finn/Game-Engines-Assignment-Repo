@@ -6,7 +6,7 @@ Student Number: C21341136
 
 Class Group: TU984 Game Design Year 3
 
-Video: *Add video*
+Video: [![YouTube](http://img.youtube.com/vi/ipXY7mvgeto/0.jpg)(https://youtu.be/ipXY7mvgeto)]
 
 # Description of the project
 My metaverse idea is an interactive campfire scene where the player has the opportunity to explore the scene in Unity 3D while interacting with various aspects of the worlds envionment. There are many ways to experience this world, the player can listen to some music while playing around at the campfire or simply watching it burn, or they can opt to simply take in the scene without the music and only the sounds of the fire and the surrounding nature.
