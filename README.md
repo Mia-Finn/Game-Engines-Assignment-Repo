@@ -61,7 +61,7 @@ Code example (this is the void that is used by the 'Day' button) :
 | FREE Skybox Extended Shader | [Unity Asset Store](https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400) |
 | All level decorations (logs, radio, marshmallows, etc.) | Self made |
 | Fire particle system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
-| Super Dream font | From [Dafont.com](https://www.dafont.com/super-dream.font)) |
+| Super Dream font | From [Dafont.com](https://www.dafont.com/super-dream.font) |
 | Song 1 | Music from [Youtube](https://youtu.be/6wM5GJVwgJo?si=UY8LGB73XAdgbWhY) |
 | Song 2 | Music from [Youtube](https://youtu.be/2WXAZhsDPqo?si=GHZM_vFkrG-328vO) |
 | Song 3 | Music from [Youtube](https://youtu.be/v6ELNT542-I?si=bI_3q57LGkVLNTQv) |
