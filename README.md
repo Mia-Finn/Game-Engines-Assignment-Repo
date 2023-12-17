@@ -82,4 +82,3 @@ I felt that I also learned a lot about particle systems in Unity. I'd never used
 An interactive campfire experience with sounds, music and particle effects. I aim to make it so that you can change the colours of the fire and maybe even the effects too, as well as interact with the other objects in the environment, like roasting marshmallows and choosing some campfire songs to listen to!
 
 # Image test:
-![heart](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkids.nationalgeographic.com%2Fscience%2Farticle%2Fthe-truth-about-your-heart&psig=AOvVaw3Kq8f0cHSfEAOwtRwvesyj&ust=1702939591740000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCID4tr3Gl4MDFQAAAAAdAAAAABAE)
