@@ -11,20 +11,20 @@ Video:
 [![YouTube](http://img.youtube.com/vi/ipXY7mvgeto/0.jpg)](https://youtu.be/ipXY7mvgeto)]
 
 # Description of the project
-My metaverse idea is an interactive campfire scene where the player has the opportunity to explore the scene in Unity 3D while interacting with various aspects of the worlds envionment. There are many ways to experience this world, the player can listen to some music while playing around at the campfire or simply watching it burn, or they can opt to simply take in the scene without the music and only the sounds of the fire and the surrounding nature.
-
-This project was made in the Unity Game Engine, it currently only plays on PC in as a 3D Unity scene, not yet working in VR. There is a low-poly/cartoon like art style to the scene.
+My metaverse idea is an interactive campfire scene where the player can explore the scene in Unity 3D while interacting with various aspects of the worlds envionment. There are many ways to experience this world, the player can listen to some music while playing around at the campfire and roasting marshmallows, or they can opt to simply take in the scene without the music and only the sounds of the fire and the surrounding nature. It's completely up to you how you choose to experience this campfire!
 
 # Instructions for use
+(This project was made in the Unity Game Engine, it currently only plays on PC as a 3D Unity scene, not yet working in VR)
+
 Use the W, A, S, D keys to move in the game world and move the mouse to look around.
-The player can use 'E' to interact with most objects in the campfire scene. Players can interact with the radio, the tablet and the marshmallows.
+The player can use 'E' to interact with most objects in the campfire scene. Players can interact with the radio and the tablet.
 Holding down left mouse button will pick up objects and letting go will drop them. Players can press the right mouse button while holding an object to throw it.
-The 'Esc' button will bring the player to the main menu where they can control the volume as well as the controls menu.
+The 'Esc' button will bring the player to the main menu where they can control the volume as well as see the controls menu.
 
 # How it works
 The character movement script makes use of Unity's built in input system. 
 
-The majority of the project is handled in my Scene Manager script. This script looks out for the collision of objects and the distane between objects and then 'if' statements control what will happen as a result, for example if the player gets to close to the fire then the 'Be Careful!' text line will appear but if they get closer and walk into the fire, they will get teleported back to their spawn point. This script also controls the interactions with objects.
+The majority of the project is handled in my Scene Manager script. This script looks out for the collision of objects and the distance between objects, then 'if' statements control what will happen as a result, for example if the player gets to close to the fire then the 'Be Careful!' text line will appear but if they get closer and walk into the fire, they will get teleported back to their spawn point. This script also controls the interactions with objects. This script handles any scene changes and he turning on and of of the canvas' for the menus as well as the cursor.
 
 The buttons on the radio control the music using the built in Unity UI button functions. The volume is controlled with a slider and a script that saves the last volume setting to player prefs.
 
@@ -53,6 +53,8 @@ The buttons on the radio control the music using the built in Unity UI button fu
 | Fire noise | Sound from [Freesound.org](https://freesound.org/people/Ambient-X/sounds/660298/) |
 | Day scene background noise | Sound from [Freesound.org](https://freesound.org/people/klankbeeld/sounds/524001/) |
 | Night scene background noise | Sound from [Freesound.org](https://freesound.org/people/Dokuta_Gerovv/sounds/662095/) |
+| Click noise 1 | Sound from [Freesound.org](https://freesound.org/people/brnck/sounds/257357/) |
+| Click noise 2 | Sound from [Freesound.org](https://freesound.org/people/aphom000/sounds/687105/) |
 
 # References
 * Player movement script was modified from old class notes
