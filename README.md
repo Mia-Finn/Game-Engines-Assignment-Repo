@@ -54,7 +54,7 @@ Code example (this is the void that is used by the 'Day' button):
 | cursorSelect_script.cs | Self written |
 | tesPromptScript.cs | Self written |
 | ObjPickup.cs | Modified from [reference](https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2) |
-| changeSkybox.cs | From [reference](https://www.youtube.com/watch?v=HAvHeIBVyvY) |
+| changeSkybox.cs | Modified from [reference](https://www.youtube.com/watch?v=HAvHeIBVyvY) |
 | radioScript.cs | Self written |
 | roastMarshmallowScript.cs | Self written |
 | volumeManager.cs | From [reference](https://www.youtube.com/watch?v=yWCHaTwVblk) |
