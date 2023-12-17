@@ -78,7 +78,7 @@ Code example (this is the void that is used by the 'Day' button) :
 * Object pickup and drop script video from Omogonix on Youtube - https://youtu.be/FnE4aS0dsE4?si=ire21gDw-Zz5evm2
 * Change skybox script video from Cezary_Sharp on Youtube - https://www.youtube.com/watch?v=HAvHeIBVyvY
 * Fire particle system references - [Video](https://youtu.be/PoMl09d1Avc?feature=shared) , [Unity Learn](https://learn.unity.com/tutorial/introduction-to-particle-systems#) , [Unity Docs](https://docs.unity3d.com/ScriptReference/ParticleSystem.html)
-* Fonts from (there are 2 in the project but I only used one) [Dafont.com](https://www.dafont.com/)
+* Fonts from (there are two in the project but I only used one) [Dafont.com](https://www.dafont.com/)
 
 # What I am most proud of in the assignment
 I am proud of the radio function. I think that it works really well and I am happy with the way the asset itself looks. I am also quite proud of the fire particle system. I like the colours and the low-poly arty style that it has. I think it fits the rest of the environment really well.
