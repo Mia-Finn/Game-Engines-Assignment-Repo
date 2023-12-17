@@ -17,8 +17,11 @@ My metaverse idea is an interactive campfire scene where the player can explore 
 (This project was made in the Unity Game Engine, it currently only plays on PC as a 3D Unity scene, not yet working in VR)
 
 Use the W, A, S, D keys to move in the game world and move the mouse to look around.
+
 The player can use 'E' to interact with most objects in the campfire scene. Players can interact with the radio and the tablet.
+
 Holding down left mouse button will pick up objects and letting go will drop them. Players can press the right mouse button while holding an object to throw it.
+
 The 'Esc' button will bring the player to the main menu where they can control the volume as well as see the controls menu.
 
 # How it works
