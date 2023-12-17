@@ -7,6 +7,7 @@ Student Number: C21341136
 Class Group: TU984 Game Design Year 3
 
 Video:
+
 [![YouTube](http://img.youtube.com/vi/ipXY7mvgeto/0.jpg)](https://youtu.be/ipXY7mvgeto)]
 
 # Description of the project
