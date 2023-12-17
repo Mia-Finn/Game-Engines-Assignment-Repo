@@ -18,7 +18,7 @@ My metaverse idea is an interactive campfire scene where the player can explore 
 
 Use the W, A, S, D keys to move in the game world and move the mouse to look around.
 
-The player can use 'E' to interact with most objects in the campfire scene. Players can interact with the radio and the tablet.
+The player can use 'E' to interact with objects in the campfire scene. Players can interact with the radio and the tablet.
 
 Holding down left mouse button will pick up objects and letting go will drop them. Players can press the right mouse button while holding an object to throw it.
 
@@ -27,13 +27,13 @@ The 'Esc' button will bring the player to the main menu where they can control t
 # How it works
 The character movement script makes use of Unity's built in input system. 
 
-The majority of the project is handled in my Scene Manager script. This script looks out for the collision of objects and the distance between objects, then 'if' statements control what will happen as a result, for example if the player gets to close to the fire then the 'Be Careful!' text line will appear but if they get closer and walk into the fire, they will get teleported back to their spawn point. This script also controls the interactions with objects. This script handles any scene changes and he turning on and of of the canvas' for the menus as well as the cursor.
+The majority of the project is handled in my Scene Manager script. This script looks out for the collision of objects and the distance between objects, then 'if' statements control what will happen as a result, for example if the player gets to close to the fire then the 'Be Careful!' text line will appear but if they get closer and walk into the fire, they will get teleported back to their spawn point. This script also controls the interactions with objects. This script handles any scene changes and the turning on and off of the canvas' for the menus as well as the cursor.
 
 The buttons on the radio control the music using the built in Unity UI button functions. The volume is controlled with a slider and a script that saves the last volume setting to player prefs.
 
-A lot of the elements of this project use buttons to make something happen in the game world. Many of the scripts contain public voids that are called on when a button is pressed. For example when the player selects either 'Day' or 'Night' in the world edit the buttons access a public void in the changeSkybox.cs script and then change the game's look and it's sounds accordingly.
+A lot of the elements of this project use buttons to make something happen in the game world. Many of the scripts contain public voids that are called on when a button is pressed. For example when the player selects either 'Day' or 'Night' in the world edit the buttons access a public void in the changeSkybox.cs script and then change the game's look and sounds accordingly.
 
-Code example (this is the void that is used by the 'Day' button):
+Code example (this is the void that is used by the 'Day' button) :
 
 ```C#
  public void dayTime()
@@ -58,7 +58,7 @@ Code example (this is the void that is used by the 'Day' button):
 | radioScript.cs | Self written |
 | roastMarshmallowScript.cs | Self written |
 | volumeManager.cs | From [reference](https://www.youtube.com/watch?v=yWCHaTwVblk) |
-| FREE Skybox Extended Shader | Unity Asset Store |
+| FREE Skybox Extended Shader | [Unity Asset Store](https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400) |
 | All level decorations (logs, radio, marshmallows, etc.) | Self made |
 | Fire particle system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
 | All fonts | From [Dafont.com](https://www.dafont.com/) |
@@ -82,12 +82,12 @@ Code example (this is the void that is used by the 'Day' button):
 # What I am most proud of in the assignment
 I am proud of the radio function. I think that it works really well and I am happy with the way the asset itself looks. I am also quite proud of the fire particle system. I like the colours and the low-poly arty style that it has. I think it fits the rest of the environment really well.
 
-I am proud of what I was able to achieve by myself in the given amount of time for this project. I feel that I was able to execute the vision from my original proposal quite well and I was able to overcome most of the problems I encountered by myself along the way. Although I ultimately wasn't able to get the game working in VR in time for the submission I am stll very proud of how it turned out and I think that I learned a lot from doing this assignment that I can use to improve any future projects.
+I am proud of what I was able to achieve by myself in the given amount of time for this project. I feel that I was able to execute the vision from my original proposal quite well and I was able to overcome most of the problems I encountered by myself along the way. Although I ultimately wasn't able to get the game working in VR in time for the submission I am still very proud of how it turned out and I think that I learned a lot from doing this assignment that I can use to improve any future projects.
 
 # What I learned
-I learned a lot about sound design it Unity. I had never really done too much with game sounds until this project and I'm very happy with how they turned out. I will now be a lot more confident in adding sound affects and music to future projects and I also know how to make a volme controller and how to save and load the volume settings too.
+I learned a lot about sound design in Unity. I had never really done too much with game sounds until this project and I'm very happy with how they turned out. I will now be a lot more confident in adding sound affects and music to future projects and I also know how to make a volume controller and how to save and load the volume settings too.
 
-I felt that I also learned a lot about particle systems in Unity. I'd never used them too much before as I found them very complicated and confusing, I had to learn how they worked so I could get the fire and smoke to look the way I wanted it to, luckily I was able to find a lot of material online to help with this (linked above). In the end, I found it really fun to learn how it all worked and as there are so many things you can do with particle systems, I look forward to getting the chance to use them again in future projects.
+I felt that I also learned a lot about particle systems in Unity. I'd never really used them before as I found them very complicated and confusing, I had to learn how they worked so I could get the fire and smoke to look the way I wanted it to, luckily I was able to find a lot of material online to help with this (linked above). In the end, I found it really fun to learn how it all worked and as there are so many things you can do with particle systems, I look forward to getting the chance to use them more in future projects.
 
 # Proposal submitted earlier can go here:
 (Original proposal)
