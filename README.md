@@ -31,9 +31,9 @@ The majority of the project is handled in my Scene Manager script. This script l
 
 The buttons on the radio control the music using the built in Unity UI button functions. The volume is controlled with a slider and a script that saves the last volume setting to player prefs.
 
-A lot of the elements of this projct uses buttons to make something happen in the game world. Many of the scripts contain public voids that are called on when a button is pressed. For example when the player selects either 'Day' or 'Night' when editing the world the butons access the changeSkybox.cs script and then change the game's look and it's sounds accordingly.
+A lot of the elements of this project use buttons to make something happen in the game world. Many of the scripts contain public voids that are called on when a button is pressed. For example when the player selects either 'Day' or 'Night' in the world edit the buttons access a public void in the changeSkybox.cs script and then change the game's look and it's sounds accordingly.
 
-Code example:
+Code example (this is the void that is used by the 'Day' button):
 
 ```C#
  public void dayTime()
