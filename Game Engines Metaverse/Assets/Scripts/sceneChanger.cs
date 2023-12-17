@@ -20,6 +20,10 @@ public class sceneChanger : MonoBehaviour
         SceneManager.LoadScene(0);
     }
 
+    public void EndGame()
+    {
+        SceneManager.LoadScene(2);
+    }
 
     public void QuitGame()
     {
