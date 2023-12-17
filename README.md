@@ -59,7 +59,7 @@ Code example (this is the void that is used by the 'Day' button):
 | roastMarshmallowScript.cs | Self written |
 | volumeManager.cs | From [reference](https://www.youtube.com/watch?v=yWCHaTwVblk) |
 | FREE Skybox Extended Shader | Unity Asset Store |
-| All level decorations (logs, rado, marshmallows, etc.) | Self made |
+| All level decorations (logs, radio, marshmallows, etc.) | Self made |
 | Fire particle system | Modified from [reference](https://youtu.be/PoMl09d1Avc?feature=shared) |
 | All fonts | From [Dafont.com](https://www.dafont.com/) |
 | Song 1 | Music from [Youtube](https://youtu.be/6wM5GJVwgJo?si=UY8LGB73XAdgbWhY) |
