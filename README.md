@@ -67,10 +67,16 @@ The buttons on the radio control the music using the built in Unity UI button fu
 * Fire particle system references - [Video](https://youtu.be/PoMl09d1Avc?feature=shared) , [Unity Learn](https://learn.unity.com/tutorial/introduction-to-particle-systems#) , [Unity Docs](https://docs.unity3d.com/ScriptReference/ParticleSystem.html)
 
 # What I am most proud of in the assignment
-I am very proud of the radio function. I think that it works really well and I am happy with the way the asset itself looks. I am also quite proud of the fire particle system. I like the colours and the low-poly arty style that it has. I think it fits the rest of the environment really well.
+I am proud of the radio function. I think that it works really well and I am happy with the way the asset itself looks. I am also quite proud of the fire particle system. I like the colours and the low-poly arty style that it has. I think it fits the rest of the environment really well.
+
+I am proud of what I was able to achieve by myself in the given amount of time for this project. I feel that I was able to execute the vision from my original proposal quite well and I was able to overcome most of the problems I encountered by myself along the way. Although I ultimately wasn't able to get the game working in VR in time for the submission I am stll very proud of how it turned out and I think that I learned a lot from doing this assignment that I can use to improve any future projects.
 
 # What I learned
-I learned a lot about sound design it Unity. I had never really done too much with game sounds until this project and I'm very happy with hiw they turned out. I also learned a lot about particle systems in Unity. I'd also never done too mush with them so I had to learn how they worked and how I could get it to look the way I wanted it too, luckily I was able to find a lot of material online to help with this (linked above).
+I learned a lot about sound design it Unity. I had never really done too much with game sounds until this project and I'm very happy with how they turned out. I will now be a lot more confident in adding sound affects and music to future projects and I also know how to make a volme controller and how to save and load the volume settings too.
+
+I felt that I also learned a lot about particle systems in Unity. I'd never used them too much before as I found them very complicated and confusing, I had to learn how they worked so I could get the fire and smoke to look the way I wanted it to, luckily I was able to find a lot of material online to help with this (linked above). In the end, I found it really fun to learn how it all worked and as there are so many things you can do with particle systems, I look forward to getting the chance to use them again in future projects.
 
 # Proposal submitted earlier can go here:
+(Original proposal)
+
 An interactive campfire experience with sounds, music and particle effects. I aim to make it so that you can change the colours of the fire and maybe even the effects too, as well as interact with the other objects in the environment, like roasting marshmallows and choosing some campfire songs to listen to!
