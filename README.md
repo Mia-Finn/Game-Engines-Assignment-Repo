@@ -8,7 +8,7 @@ Class Group: TU984 Game Design Year 3
 
 Video:
 
-[![YouTube](http://img.youtube.com/vi/ipXY7mvgeto/0.jpg)](https://youtu.be/ipXY7mvgeto)]
+[![YouTube](http://img.youtube.com/vi/ipXY7mvgeto/0.jpg)](https://youtu.be/ipXY7mvgeto)
 
 # Description of the project
 My metaverse idea is an interactive campfire scene where the player can explore the scene in Unity 3D while interacting with various aspects of the worlds envionment. There are many ways to experience this world, the player can listen to some music while playing around at the campfire and roasting marshmallows, or they can opt to simply take in the scene without the music and only the sounds of the fire and the surrounding nature. It's completely up to you how you choose to experience this campfire!
